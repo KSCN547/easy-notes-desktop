@@ -9,6 +9,12 @@
 * **纯净体验**：无广告、无社交干扰，专注于写作本身。
 * **自动持久化**：应用会自动记录并恢复你的最后编辑状态及设置，真正做到开箱即用。
 
+## 💡 灵感来源
+本项目的开发灵感源自一款优秀的移动端 Material Design 风格轻量笔记软件：**EasyNotes**。
+- 原作者仓库：[Kin69/EasyNotes](https://github.com/Kin69/EasyNotes)
+- 原项目发布页：[Releases](https://github.com/Kin69/EasyNotes/releases)
+
+
 ## 🚀 快速开始
 
 ### 下载安装
