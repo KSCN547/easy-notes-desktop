@@ -19,7 +19,11 @@
 
 ### 下载安装
 
-直接前往 [Releases 页面](https://github.com/KSCN547/easy-notes-desktop/releases) 下载最新的 `.exe` 安装包。
+直接前往 [Releases 页面](https://github.com/KSCN547/easy-notes-desktop/releases) 下载最新的安装包。
+- **Windows**: `.exe`
+- **Linux (Debian/Ubuntu)**: `.deb`
+- **Linux (Fedora/CentOS)**: `.rpm`
+- **Linux (Universal)**: `.AppImage`
 
 > **🔒 文件校验 (v0.1.0)**
 > `SHA-256: 51a2a2b36f785bb94e2c7849f3317dfdb9af9336d0c98850548cbc4f27f18e62`
